@@ -2,7 +2,7 @@
 
 Splits input file with translation blocks and creates dirs and files for each translation block next to the input file.
 
-**Source example:**
+**Input example:**
 
 `/NAME.txt`
 
