@@ -1,0 +1,2 @@
+Reply only with translated json blocks, add language abbreviation letters one line before each block. No markdown. 
+Languages: AR-Argentina-Spanish,CA-Catalan,CH-Traditional-Chinese,CN-Simplified-Chinese,CS-Czech,DA-Danish,DE-German,ES-Spanish,FI-Finnish,FR-French,HU-Hungarian,ID-Indonesia,IT-Italian,JP-Japanese,KO-Korean,NL-Dutch,NO-Norwegian,PH-Filipino,PL-Polish,PT-Portuguese,PTBR-Brazilian-Portuguese,RO-Romanian,RU-Russian,TH-Thai,TR-Turkish,UA-Ukrainian.
