@@ -1,6 +1,6 @@
-### split_translator_output
+### split_translator_output.py
 
-splits the file piled with translation blocks and creates dirs and files for each translation block next to the input file.
+Splits input file with translation blocks and creates dirs and files for each translation block next to the input file.
 
 **Source example:**
 
@@ -35,11 +35,9 @@ LANG3
 Usage: python split_translator_output.py </path/to/dir> <name>
 ```
 
-<br>
+### convert_txt_to_json.py
 
-### convert_txt_to_json
-
-recursively converts `.txt` translation files to `.json`
+Recursively converts `.txt` translation files to `.json`
 
 ```
 Usage: python convert_txt_to_json.py </path/to/dir> <lang>
